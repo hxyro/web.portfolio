@@ -56,7 +56,7 @@ export function Sauce(){
             </LeftSec>
             
             <MidSec>
-                <a href='https://github.com/hxyro'>Github</a>
+                <a href='https://github.com/hxyro/web.portfolio'>Github</a>
             </MidSec>
         
             <RightSec>
