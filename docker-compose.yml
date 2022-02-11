@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  app:
+    container_name: web.portfolio
+    image: web.portfolio
+    build:
+      target: MAIN
+    ports:
+      - 80:80
